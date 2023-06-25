@@ -1,1 +1,1 @@
-kayip 
+kayip satis
