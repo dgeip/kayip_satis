@@ -1,1 +1,1 @@
-kayip satis
+The Lost Sale project I managed and coded while interning as a Data Analyst at MUDO, a retail company. The lost sales project is a machine learning project that estimates the 'demand gap' caused by stock shortages in the past. In the end, lost sales are displayed based on the store, size, and color. This can be utilized for purchasing of the product and allocation in the following year.
